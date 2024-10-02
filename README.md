@@ -64,4 +64,4 @@ All tasks are stored in a tasks.json file in the current directory. The JSON fil
 ## Contributing
 If you find a bug or want to add a feature, feel free to create an issue or submit a pull request.
 
-Project URL: [Link](https://github.com/Sivabala-sba/Task-Tracker-CLI "Link")
+Project URL: https://roadmap.sh/projects/task-tracker
